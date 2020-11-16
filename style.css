@@ -1,0 +1,10 @@
+html,
+body {
+  height: 99%;
+  width: 99%;
+  background: rgb(45, 45, 45);
+}
+
+.canvas {
+  position: absolute;
+}
